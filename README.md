@@ -1,6 +1,6 @@
 # GitHub Repository Viewer
 
-Technical [Task here](https://docs.google.com/document/d/1hmjmmSZOwY-XCAJmEeAfxS-mV-4LdKuD5j0lnD_NPd4/view). This is a simple web application that allows you to search for repositories on GitHub and view detailed information about them. The application is built using React, TypeScript, and GraphQL, utilizing the GitHub GraphQL API to fetch repository data.
+Technical Task [here](https://docs.google.com/document/d/1hmjmmSZOwY-XCAJmEeAfxS-mV-4LdKuD5j0lnD_NPd4/view). This is a simple web application that allows you to search for repositories on GitHub and view detailed information about them. The application is built using React, TypeScript, and GraphQL, utilizing the GitHub GraphQL API to fetch repository data.
 
 ## Features
 
